@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://teekiecai.czasprogramistow.pl/sitemap.xml
